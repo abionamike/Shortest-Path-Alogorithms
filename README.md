@@ -1,2 +1,2 @@
-# Shortest-Path-Alogorithms
-Some shortest path algorithms implementation using path
+# Shortest-Path-Algorithms
+Some shortest path algorithms implementation using python
